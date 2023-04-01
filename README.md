@@ -1,4 +1,4 @@
-# 😎 I'm currenlty discover formal DataScience world using Practicum Bootcamp.
+# 😎 I'm currenlty discover formal DataScience world.
 
 ## Skills:
 🐍 Python
