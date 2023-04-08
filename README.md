@@ -1,4 +1,4 @@
-# 😎 I'm currenlty discover formal DataScience world.
+# 😎 I'm currenlty discover DataScience world.
 
 ## Skills:
 🐍 Python
