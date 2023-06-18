@@ -1,3 +1,5 @@
+![about me](alex_profile.jpg)
+
 # 😎 I'm currenlty discover DataScience world.
 
 ## About me:
@@ -10,9 +12,13 @@ Passionate about technology and enjoying a career transition into Data Science.
 ## Skills:
 🐍 Python
 
-🧠 Scikit Learn
+🧠 Scikit Learn, TensorFlow, Keras
 
 🐼 Pandas
 
 🧮 Numpy
+
+
+
+
 
